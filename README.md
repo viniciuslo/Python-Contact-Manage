@@ -1,6 +1,6 @@
-# ContactManage
+# Contact Manage
 
-## ContactManage
+## Contact Manage
 
 ContactManage é um aplicativo de terminal desenvolvido em Python para gerenciar contatos. O aplicativo permite adicionar, visualizar, editar, excluir e marcar contatos como favoritos. Este projeto demonstra conceitos básicos de programação em Python, como manipulação de listas, funções, loops e operações de entrada/saída.
 
@@ -20,7 +20,7 @@ ContactManage é um aplicativo de terminal desenvolvido em Python para gerenciar
 
 1. Clone este repositório:
     ```sh
-    git clone https://github.com/seu-nome/contactmanage.git
+    git clone git@github.com:viniciuslo/Python-Contact-Manage.git
     ```
 
 2. Navegue até o diretório do projeto:
@@ -61,16 +61,17 @@ Digite o telefone do contato: 1234-5678
 Digite o e-mail do contato: joao.silva@email.com
 Contato 'João Silva' adicionado com sucesso!
 Pressione Enter para continuar...
+```
+### Estrutura do Projeto
 
-Estrutura do Projeto
+contactmanage.py: Script principal que contém toda a lógica do aplicativo.
 
-    contactmanage.py: Script principal que contém toda a lógica do aplicativo.
-
-Contribuição
+### Contribuição
 
 Sinta-se à vontade para contribuir para este projeto. Abra uma issue ou envie um pull request com melhorias e novos recursos.
 
-Licença
+### Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
+
 
